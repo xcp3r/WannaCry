@@ -148,4 +148,5 @@ This was developed by "equation group" an exploit developer group associated wit
 * https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/
 * https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 
-readme cred https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168
+# README cred
+https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168
